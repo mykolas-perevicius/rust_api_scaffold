@@ -1,4 +1,3 @@
-````markdown
 # Rust API Scaffold
 
 [![Rust CI](https://img.shields.io/github/actions/workflow/status/your-handle/rust_api_scaffold/rust.yml?branch=main)](../../actions)  
@@ -15,7 +14,7 @@ Starter **Actix-Web** + **SQLx/Postgres** service.
 git clone https://github.com/your-handle/rust_api_scaffold
 cd rust_api_scaffold
 cargo run          # http://localhost:8080/health → {"status":"ok"}
-````
+```
 
 ## 🗄  Database
 
