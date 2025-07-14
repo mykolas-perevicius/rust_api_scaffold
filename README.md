@@ -48,4 +48,3 @@ Issues and PRs welcome! Please run `cargo fmt` before committing.
 ## 📜 License
 
 MIT © 2025 Mykolas Perevicius
-[5]: https://github.com/rust-lang/rustfmt?utm_source=chatgpt.com "rust-lang/rustfmt: Format Rust code - GitHub"
